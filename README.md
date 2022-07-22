@@ -1,6 +1,13 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/69915632/180437863-30d84829-9238-408b-b972-19cecfdf39d4.png)
+
+
+![image](https://user-images.githubusercontent.com/69915632/180437829-f9f464ac-2d71-4154-9c73-36d135f1c7e7.png)
+
+
+# Gym Helper App
+
+This is a clean webpage to find any exercises that suits what you need in the moment. Created using rapidAPI database, MaterialUI, reactJS. You can search for muscles you want to train, you can search using equipment you have, all the exercises are categorized. On the exercise page you have some suggestions for other exercises and youtube videos helping you to perform them.
 
 ## Available Scripts
 
